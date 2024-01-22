@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @AllisterDavis
-- 📫 How to reach me : allisterdavis@gmail.com
-- ⚡ Fun fact: Despite my specialization in Cyber Security, I also have a Minor in Psychology and I do love volunteering in humanitarian projects from time to time!
+### Hi there 👋, my name is Allister Jet Davis
+#### Hello World!
+![Hello World!](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-  (https://github-readme-stats.vercel.app/api/pin/?username=AllisterDavis=github-readme-stats&cache_seconds=86400&theme=midnight-purple)
+⚡ Fun fact: Despite my specialization in Cyber Security, I also have a Minor in Psychology and I do love volunteering in humanitarian projects from time to time!
 
-<!---
-AllisterDavis/AllisterDavis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
